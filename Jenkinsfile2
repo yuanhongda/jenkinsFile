@@ -1,5 +1,5 @@
 node {
-    stage("check out code2"){
+    stage("check out code23"){
         echo 'check out code'
     }
     stage("Sonarqube2"){
