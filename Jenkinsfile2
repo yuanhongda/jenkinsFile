@@ -1,11 +1,11 @@
 node {
-    stage("check out code"){
+    stage("check out code2"){
         echo 'check out code'
     }
-    stage("Sonarqube"){
+    stage("Sonarqube2"){
         echo "Sonarqube"
     }
-    stage("building"){
+    stage("building2"){
         echo "building.."
     }
 }
