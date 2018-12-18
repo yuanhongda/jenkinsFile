@@ -25,7 +25,6 @@ pipeline {
           steps {
            
                 echo 'DockerPush end..'
-                }
+          }
         }
     }
-}
