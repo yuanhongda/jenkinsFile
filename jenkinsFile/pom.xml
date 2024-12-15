@@ -124,7 +124,7 @@
                     <!-- 汇总所有子模块的 exec 文件 -->
                     <dataFile>target/jacoco.exec</dataFile>
                     <!-- 报告输出路径，设置为根目录的 target 文件夹 -->
-                    <outputDirectory>../target/site</outputDirectory>
+                    <outputDirectory>../target/site/jacoco</outputDirectory>
 
                 </configuration>
             </plugin>
